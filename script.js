@@ -272,4 +272,3 @@ document.addEventListener("drop", (e) => {
     circle_container.style.left = `${e.clientX - offsetX}px`;
     circle_container.style.top = `${e.clientY - offsetY}px`;
 });
-
